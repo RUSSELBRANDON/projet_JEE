@@ -32,11 +32,11 @@ Avant de commencer, assurez-vous d'avoir installé les éléments suivants :
 
 ### 1. Cloner le Répertoire
 
-```sh
-git clone https://github.com/votre-nom-utilisateur/user-management-app.git
-cd user-management-app
 
-## Création et configuration de la base de données
+git clone https://github.com/RUSSELBRANDON/projet_JEE.git
+cd projet_JEE
+
+### 2. Création et configuration de la base de données
 
 Créer une base de données MySQL nommée `demo`. Puis dans cette base de données, créer une table nommée `users` dans laquelle vous allez ajouter les attributs :
 
@@ -46,7 +46,7 @@ Créer une base de données MySQL nommée `demo`. Puis dans cette base de donné
 - password
 - telephone
 
-## Démarrage du projet
+### 3. Démarrage du projet
 
 Une fois toutes ces étapes effectuées, il ne vous reste qu'à lancer le projet. Pour ce faire, suivez les étapes ci-dessous :
 
