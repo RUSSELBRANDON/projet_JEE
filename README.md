@@ -32,6 +32,7 @@ Avant de commencer, assurez-vous d'avoir installé les éléments suivants :
 
 ### 1. Cloner le Répertoire
 
+pour ce fait executer les commandes suivantes dans un terminal:
 
 -git clone https://github.com/RUSSELBRANDON/projet_JEE.git
 -cd projet_JEE
